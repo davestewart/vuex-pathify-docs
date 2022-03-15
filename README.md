@@ -1,0 +1,1 @@
+# Vuex Pathify Docs
